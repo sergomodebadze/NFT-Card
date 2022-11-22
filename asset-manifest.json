@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/nft-card/static/css/main.0eec3d71.css",
-    "main.js": "/nft-card/static/js/main.3520b071.js",
-    "static/media/image.jpg": "/nft-card/static/media/image.88bdbc91a544a2a4d04a.jpg",
-    "index.html": "/nft-card/index.html",
-    "static/media/icon-clock.svg": "/nft-card/static/media/icon-clock.991a65225dab4fadc84345ecb35faa1b.svg",
-    "static/media/icon-ethereum.svg": "/nft-card/static/media/icon-ethereum.5221f33297e5dc863451e2da9a758c12.svg",
-    "main.0eec3d71.css.map": "/nft-card/static/css/main.0eec3d71.css.map",
-    "main.3520b071.js.map": "/nft-card/static/js/main.3520b071.js.map"
+    "main.css": "/NFT-Card.git/static/css/main.f84e832a.css",
+    "main.js": "/NFT-Card.git/static/js/main.1383e375.js",
+    "static/media/image.jpg": "/NFT-Card.git/static/media/image.88bdbc91a544a2a4d04a.jpg",
+    "index.html": "/NFT-Card.git/index.html",
+    "static/media/icon-clock.svg": "/NFT-Card.git/static/media/icon-clock.991a65225dab4fadc84345ecb35faa1b.svg",
+    "static/media/icon-ethereum.svg": "/NFT-Card.git/static/media/icon-ethereum.5221f33297e5dc863451e2da9a758c12.svg",
+    "main.f84e832a.css.map": "/NFT-Card.git/static/css/main.f84e832a.css.map",
+    "main.1383e375.js.map": "/NFT-Card.git/static/js/main.1383e375.js.map"
   },
   "entrypoints": [
-    "static/css/main.0eec3d71.css",
-    "static/js/main.3520b071.js"
+    "static/css/main.f84e832a.css",
+    "static/js/main.1383e375.js"
   ]
 }
