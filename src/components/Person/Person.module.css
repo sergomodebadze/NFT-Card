@@ -1,0 +1,52 @@
+.conteiner{
+    margin-top: 24px;
+}
+.line {
+    background: #2E405A;
+    width: 302px;
+    height: 1px;
+}
+.mainDiv {
+    width: 80%;
+    display: flex;
+    margin-top: 16px;
+    align-items: center;
+    justify-content: space-between;
+}
+.image {
+    width: 33px;
+    border: 1px solid #FFFFFF;
+    border-radius: 50%;
+}
+.name {
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+span {
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #8BACD9;
+}
+
+@media only screen and (max-width: 375px) {
+    .line {
+        width: 278px;
+    }
+    .span {
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 19px;
+    }
+    .name {
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 19px;
+    }
+}

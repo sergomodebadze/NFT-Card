@@ -1,0 +1,12 @@
+.image {
+    width: 302px;
+    border-radius: 8px;
+}
+.image:hover {
+    box-shadow: 25px 25px 25px 25px rgba(0, 0, 0, 0.0952917);
+}
+@media only screen and (max-width: 375px) {
+    .image {
+        width: 278px;
+    }
+  }
